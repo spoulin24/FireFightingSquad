@@ -7,6 +7,9 @@ This project implements a multi-drone firefighting system that is seamlessly int
 
 The system leverages drone synchronization, image recognition, real-time sensors, and autonomous navigation to coordinate the drones in performing their tasks.
 
+![image](https://github.com/user-attachments/assets/e584a24c-eac4-4015-a8b3-ddfd947dac53)
+
+
 ### Features
 
 - **Water Delivery Drones (WDD):** Collect water from a source, position themselves over a bladder using GPS and image recognition, and then drop the water into the bladder. All actions are controlled through the QGIS interface.
