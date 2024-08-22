@@ -60,6 +60,9 @@ The Firefighting Squad Plugin is an open-source project, and we welcome contribu
 4. **Spread the Word:**
    - Share the project with others in the firefighting, GIS, and drone communities. The more people who use and contribute to the plugin, the more powerful it will become.
 
+![image](https://github.com/user-attachments/assets/920b7834-459a-4c3f-91ff-728f39c26b9a)
+
+
 ### Conclusion
 
 The Firefighting Squad Plugin for QGIS is a powerful tool with the potential to transform how firefighting operations are conducted. By combining the strengths of GIS and autonomous drones, we are creating a system that not only improves efficiency but also enhances safety and decision-making in critical situations. We are excited about the future of this project and look forward to collaborating with the community to make it a reality.
